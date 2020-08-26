@@ -1,4 +1,9 @@
-<<<<<<< HEAD
+## I copied from https://github.com/pjreddie/darknet  and changed to my own code
+
+## 여기서 받고 !make 해서 darknet 만들어서 실행해야 한다.
+
+
+
 ![Darknet Logo](http://pjreddie.com/media/files/darknet-black-small.png)
 
 # Darknet #
