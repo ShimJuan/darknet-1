@@ -25,10 +25,8 @@ For questions or issues please use the [Google Group](https://groups.google.com/
 
 ![YOLOv4](https://user-images.githubusercontent.com/4096485/90338826-06114c80-dff5-11ea-9ba2-8eb63a7409b3.png)
 
-
 ----
 
 ![OpenCV_TRT](https://user-images.githubusercontent.com/4096485/90338805-e5e18d80-dff4-11ea-8a68-5710956256ff.png)
 =======
-# darknet
->>>>>>> 7c88059cf8174dd650883ae25eb0d7de5b3746e6
+# 
