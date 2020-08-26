@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![Darknet Logo](http://pjreddie.com/media/files/darknet-black-small.png)
 
 # Darknet #
@@ -28,3 +29,6 @@ For questions or issues please use the [Google Group](https://groups.google.com/
 ----
 
 ![OpenCV_TRT](https://user-images.githubusercontent.com/4096485/90338805-e5e18d80-dff4-11ea-8a68-5710956256ff.png)
+=======
+# darknet
+>>>>>>> 7c88059cf8174dd650883ae25eb0d7de5b3746e6
